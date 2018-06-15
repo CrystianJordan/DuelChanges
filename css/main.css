@@ -1,0 +1,5 @@
+.btn btn-outline-success my-2 my-sm-0:hover {
+    background-color: cornflowerblue;
+    color: white;
+    cursor: hand;
+}

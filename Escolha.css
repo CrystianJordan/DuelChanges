@@ -1,0 +1,27 @@
+.loja{
+    height: 15%;
+    width: 25%;
+    position: relative;
+    left: 23%;
+    top: 275;
+    background-color: #4bf187;
+    overflow: hidden;
+}
+.loja:hover{
+    background-color: #33d96d;
+}
+.pessoa{
+    height: 15%;
+    width: 25%;
+    position: relative;
+    left: 28%;
+    top: 275;
+    background-color: #4bf187;
+}
+.pessoa:hover{
+    background-color: #33d96d;
+}
+#titulo{
+    position: relative;
+    top: 200;
+}
