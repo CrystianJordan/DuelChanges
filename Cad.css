@@ -1,0 +1,13 @@
+#formato {
+    font-weight: bold;
+    position: relative;
+    left: 300px;
+    top: 210px;
+    border-style: solid;
+    border-width: medium;
+    border-color: gray;
+    width: 700px;
+    height: 400px;
+    background-color: #d0d3d8;
+    opacity: 0.9;
+}
