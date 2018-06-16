@@ -1,9 +1,21 @@
-.loja{
-    height: 15%;
-    width: 25%;
+#formato {
+    font-weight: bold;
     position: relative;
-    left: 23%;
-    top: 275;
+    left: 450px;
+    top: 210px;
+    border-style: solid;
+    border-width: medium;
+    border-color: gray;
+    width: 400px;
+    height: 200px;
+    background-color: #d0d3d8;
+    opacity: 0.9;
+}
+.loja{
+    height: 17%;
+    width: 40%;
+    position: relative;
+    left: 5%;
     background-color: #4bf187;
     overflow: hidden;
 }
@@ -11,11 +23,10 @@
     background-color: #33d96d;
 }
 .pessoa{
-    height: 15%;
-    width: 25%;
+    height: 17%;
+    width: 40%;
     position: relative;
-    left: 28%;
-    top: 275;
+    left: 15%;
     background-color: #4bf187;
 }
 .pessoa:hover{
@@ -23,5 +34,4 @@
 }
 #titulo{
     position: relative;
-    top: 200;
 }
